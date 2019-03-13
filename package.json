@@ -1,0 +1,26 @@
+{
+  "name": "node-open-api",
+  "version": "1.0.4",
+  "description": "Handsome service framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "lodash": "*",
+    "restify": "*",
+    "restify-errors": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restful",
+    "restify"
+  ],
+  "author": {
+    "name": "Pillar",
+    "email": "331988791@qq.com"
+  },
+  "license": "ISC"
+}
